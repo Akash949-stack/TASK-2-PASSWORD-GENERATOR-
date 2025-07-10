@@ -17,5 +17,5 @@ try:
 
  
         print(f"\n here's your strong password:\n {password}")
-except ValueError:
+except ValueError
     print("Oops! That doesn't look like a number. Please try again with digits only.")
